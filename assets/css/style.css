@@ -1,0 +1,155 @@
+/* Background Image??? 
+   Footer
+   
+*/
+
+h1,h2,h3 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+}
+
+}
+
+div[class^="col"]{
+	background-color: white;
+}
+
+
+body{
+	height: 100%;
+}
+
+.navbar, .navbar-default{
+	background-color: white;
+	border-style: solid;
+	border-width: 3px;
+	border-color: #cccccc;
+}
+
+.navbar .container{
+	background-color: white;
+
+}
+.navbar-default{
+	background-color: white;
+
+}
+.panel-title.page-header{
+	margin: 0 15px;
+}
+
+
+.navbar-brand{
+	background-color: #4aaaa5;
+	text-decoration-color: white;
+}
+
+.page-header{
+	background-color: #ffffff;
+}
+
+.panel-title{
+	background-color: white;
+	text-align: center;
+}
+
+
+.panel-body{
+	background-color: white;
+	text-align: center;
+	align-content: center;
+}
+
+.panel-footer {
+	text-align: center;
+	clear: both;
+	width: 100%;
+	background color: #666666;
+	border-style: solid;
+	border-top-width: 3px;
+	border-top-color: #4aaaa5;
+}
+
+.container-footer{
+	position: static;
+	bottom: 0;
+}
+/* ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+body {
+			background-image: url(http://i65.tinypic.com/2n1su9d.jpg);
+		}
+
+
+
+h2{
+	text-align: center;
+		}
+
+h3 {
+	text-align: center;
+		}
+
+p {
+		font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		color: #777777;
+		}
+
+.active {
+    background-color: #4CAF50;
+}
+
+.navbar{
+			background-color: #ffffff;
+			border-style: solid;
+    		border-width: 3px;
+			border-color: #cccccc;
+
+ 		}
+
+
+.page-header{
+			float: left;
+			border: solid;
+			width: 400px;
+			background-color: #ffffff;
+			margin: 100px 150px 100px 80px;
+		}
+
+	
+.sidebar{
+			float: right;
+			border: solid;
+			width: 25%;
+			background-color: white;
+			margin: 100px 150px 100px 80px;
+		}
+		
+
+

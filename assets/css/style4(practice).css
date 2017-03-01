@@ -1,0 +1,22 @@
+h1, h3{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+}
+
+.navbar-header{
+	background-color: #4aaaa5;
+}
+
+
+
+
+
+.panel-default>.panel-heading{
+	background-color: white;
+}
+
+.panel-title{
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+	background-color: white;
+}
